@@ -1,0 +1,7 @@
+{
+    "epilon ":	0.01,
+    "exp_name":	"epsilon-greedy",
+    "savw_interval":	1000.0,
+    "seed":	33,
+    "target Update_interval":	500
+}
