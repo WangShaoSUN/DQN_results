@@ -1,0 +1,8 @@
+{
+    "epilon ":	0.01,
+    "exp_name":	"Noisy layer",
+    "lr":	0.0001,
+    "savw_interval":	1000.0,
+    "seed":	444,
+    "target Update_interval":	1
+}
